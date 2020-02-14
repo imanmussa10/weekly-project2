@@ -1,0 +1,23 @@
+.navbar{
+    width:100vw;
+    height: 60px;
+}
+.row{
+    background-image: url("../images/bg1.jpg");
+    height:100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    background-position: center center;
+    
+}
+.heading{
+
+
+    text-align: center;
+    padding:50px ;
+    justify-content:center;
+   align-items:center;
+    margin-left: 100px;
+   
+}
