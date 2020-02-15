@@ -37,7 +37,11 @@
     
 
 }
-.h4{
-    color:blue;
+h4{
+    color:white;
     text-align: center;
+}
+ h5{
+    text-align: center;
+    text-decoration: cyan;
 }
