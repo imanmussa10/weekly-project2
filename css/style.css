@@ -29,12 +29,15 @@
     text-align: center;
 }
 
-.blackbg{
+#black{
     background-image: url("../images/bg3.jpg"); 
-    height: 100px;
+
     width: 100vw;
-   
+    background-repeat: no-repeat;
     
+    background-size:cover;
+    
+  
 
 }
 h4{
@@ -89,12 +92,7 @@ background-repeat: no-repeat;
     align-items: center;
 
 }
-#neew{
-    align-items: center;
-    text-align: justify;
-    padding: 50px;
-}
 p{
     text-align: center;
-    padding:20px;
+    padding:50px;
 }
