@@ -2,23 +2,24 @@
     width:100vw;
     height: 60px;
 }
-.brg{
+#brg{
     background-image: url("../images/bg1.jpg");
     height:100vh;
     background-repeat: no-repeat;
      width: 100vw;
     background-size:cover;
-    background-position: center center;
+    
     
 }
 .heading{
 
 
     text-align: center;
-    padding:50px ;
+    padding:20px ;
     justify-content:center;
    align-items:center;
-    margin-left: 100px;
+   padding-left: 50px;
+
    
 }
 .row{
@@ -28,14 +29,22 @@
     background-size:contain;
     text-align: center;
 }
+.images_h{
+width: 300px;
+height: 250px;
 
+}
 #black{
     background-image: url("../images/bg3.jpg"); 
+    
 
     width: 100vw;
+    height: 100vh;
     background-repeat: no-repeat;
     
     background-size:cover;
+    padding-top: 150px;
+     
     
   
 
@@ -90,9 +99,17 @@ background-repeat: no-repeat;
 }
 #clients{
     align-items: center;
+    text-align: center;
 
 }
-p{
+#cl{
     text-align: center;
-    padding:50px;
+}
+.paragraph{
+    text-align: justify;
+    align-items: center;
+
+}
+.gift{
+    padding-top: 100px;
 }
